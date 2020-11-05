@@ -1,0 +1,24 @@
+#encabezado{
+    background-color: #000;
+}
+
+#encabezado ul{
+        list-style: none;
+        margin: 0;
+        padding: 0;
+}
+#encabezado ul li{
+    display: inline-block;
+}
+
+#encabezado ul li a {
+    color: black;
+    display: block;
+    padding: 25px 30px;
+    text-decoration: none;
+
+}
+#encabezado ul li a:hover{
+    background-color: #42B881;
+
+}
